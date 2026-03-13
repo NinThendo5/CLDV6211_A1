@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{063DAD65-8090-12FB-BBC4-5A92D50A200C}|EventsApp\\EventsApp.csproj|solutionrelative:eventsapp\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{063DAD65-8090-12FB-BBC4-5A92D50A200C}|EventsApp\\EventsApp.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211_a1\\eventsapp\\models\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063DAD65-8090-12FB-BBC4-5A92D50A200C}|EventsApp\\EventsApp.csproj|solutionrelative:eventsapp\\models\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{063DAD65-8090-12FB-BBC4-5A92D50A200C}|EventsApp\\EventsApp.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211_a1\\eventsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{063DAD65-8090-12FB-BBC4-5A92D50A200C}|EventsApp\\EventsApp.csproj|solutionrelative:eventsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Controllers\\VenuesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventsApp\\Controllers\\VenuesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gameplay.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Models\\Gameplay.cs",
+              "RelativeDocumentMoniker": "EventsApp\\Models\\Gameplay.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Models\\Gameplay.cs",
+              "RelativeToolTip": "EventsApp\\Models\\Gameplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:49:06.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "EventsApp\\Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "EventsApp\\Controllers\\VenuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:48:10.779Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +62,14 @@
               "RelativeDocumentMoniker": "EventsApp\\Models\\Venue.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Models\\Venue.cs",
               "RelativeToolTip": "EventsApp\\Models\\Venue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T11:30:20.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EventsApp\\Controllers\\HomeController.cs",
@@ -43,7 +77,8 @@
               "RelativeToolTip": "EventsApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:29:22.161Z"
+              "WhenOpened": "2026-03-13T11:29:22.161Z",
+              "EditorCaption": ""
             }
           ]
         }

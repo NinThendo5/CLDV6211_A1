@@ -1,3 +1,6 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using EventsApp.Data;
 namespace EventsApp
 {
     public class Program
@@ -5,6 +8,8 @@ namespace EventsApp
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<EventsAppContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("EventsAppContext") ?? throw new InvalidOperationException("Connection string 'EventsAppContext' not found.")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();

@@ -12,5 +12,7 @@ namespace EventsApp.Models
 
         public string Location { get; set; }
 
+        public List<Gameplay> Gameplays { get; set; }
+
     }
 }
