@@ -30,8 +30,7 @@
               "RelativeToolTip": "EventsApp\\Models\\Venue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:30:20.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:30:20.755Z"
             },
             {
               "$type": "Document",
@@ -43,8 +42,7 @@
               "RelativeToolTip": "EventsApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:29:22.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:29:22.161Z"
             }
           ]
         }
