@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\C# stuff\\EventsApp\\EventsApp\\EventsApp.csproj",
+      "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\EventsApp.csproj",
       "projectName": "EventsApp",
-      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\C# stuff\\EventsApp\\EventsApp\\EventsApp.csproj",
+      "projectPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\EventsApp.csproj",
       "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab_services_student\\Desktop\\C# stuff\\EventsApp\\EventsApp\\obj\\",
+      "outputPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,7 +76,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

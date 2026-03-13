@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+941b283f6422ea332e76369535d002830f9729d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

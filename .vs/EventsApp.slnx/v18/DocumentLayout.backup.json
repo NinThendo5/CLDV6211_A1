@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\C# stuff\\EventsApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{063DAD65-8090-12FB-BBC4-5A92D50A200C}|EventsApp\\EventsApp.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211_a1\\eventsapp\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063DAD65-8090-12FB-BBC4-5A92D50A200C}|EventsApp\\EventsApp.csproj|solutionrelative:eventsapp\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063DAD65-8090-12FB-BBC4-5A92D50A200C}|EventsApp\\EventsApp.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211_a1\\eventsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063DAD65-8090-12FB-BBC4-5A92D50A200C}|EventsApp\\EventsApp.csproj|solutionrelative:eventsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "EventsApp\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Models\\Venue.cs",
+              "RelativeToolTip": "EventsApp\\Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:30:20.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventsApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211_A1\\EventsApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventsApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:29:22.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
